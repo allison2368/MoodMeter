@@ -1,0 +1,1 @@
+# main training model for emotion recognition 
