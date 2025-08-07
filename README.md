@@ -5,9 +5,12 @@ This project will be a mobile application to implement the Mood Meter designed b
 ## Dataset
 
 link: https://www.kaggle.com/datasets/tapakah68/facial-emotion-recognition 
+The model uses Kaggle API to access data, allowing for seamless project replication 
 
 ## Goals 
 
-Goals for this project include 
+Goals for this project include utilizing the VGG-16 (https://medium.com/@mygreatlearning/everything-you-need-to-know-about-vgg16-7315defb5918) architecture to classify human faces into distinct emotion categories. I will then be building a iOS mobile app utilizing FLutter. 
+
+## Figma Preview
 
 <img width="271" height="560" alt="image" src="https://github.com/user-attachments/assets/a33fd3eb-e7bb-43c7-982c-bcf8b5246a7c" />
