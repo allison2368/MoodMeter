@@ -13,4 +13,6 @@ Goals for this project include utilizing the VGG-16 (https://medium.com/@mygreat
 
 ## Figma Preview
 
+https://www.figma.com/design/Lu9kc565ghG8xtkpCvN9XR/feel?node-id=0-1&t=dU1KLdn4m2rLQJ7b-1 
+
 <img width="271" height="560" alt="image" src="https://github.com/user-attachments/assets/a33fd3eb-e7bb-43c7-982c-bcf8b5246a7c" />
